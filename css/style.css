@@ -30,6 +30,11 @@ a{
     font-family: 'Kalnia', serif;
   }
 }
+.profile{
+  .header>h1{
+    color: white;
+  }
+}
 .gnav{
   width: 100%;
   height: auto;
